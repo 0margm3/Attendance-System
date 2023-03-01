@@ -1,6 +1,4 @@
-# Attendance_sys_sec
-
-An Attendance System University Project created in C
+# An Attendance System University Project created in C
 
 #### Features
 
@@ -8,3 +6,6 @@ An Attendance System University Project created in C
 - Encrypted Database Text File using AES (LuoPeng, luopeng@iie.ac.cn)
 - Admin & Client Interface
 - ...
+
+
+note: I know it is messy, I'll clean this soon. 
